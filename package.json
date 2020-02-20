@@ -1,0 +1,30 @@
+{
+  "name": "@irando/summernote-highlighter",
+  "version": "1.0.0",
+  "description": "This package adds `Prism.js` syntax highlighter to summernote editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertnicjoo/Summernote-Highlighter.git"
+  },
+  "keywords": [
+    "summernote",
+    "highlight",
+    "syntax",
+    "irando",
+    "cv irando"
+  ],
+  "author": "Robert Nicjoo <robert@irando.co.id> (https://irando.co.id)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertnicjoo/Summernote-Highlighter/issues"
+  },
+  "homepage": "https://irando.co.id",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  }
+}
