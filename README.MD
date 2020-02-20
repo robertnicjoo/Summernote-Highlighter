@@ -2,10 +2,10 @@
 
 This package adds `Prism.js` syntax highlighter to summernote editor.
 
-# Supported Languages
+### Supported Languages
 
 All supported languages by prism are supported by this package [complete list here](https://prismjs.com/#supported-languages)
 
-# Developer
+### Developer
 
 [Robert Nicjoo](https://irando.co.id)
